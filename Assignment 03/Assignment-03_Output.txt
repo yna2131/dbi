@@ -1,0 +1,31 @@
+part a: Your ID
+part b: Query executed successfully
+part c: Query executed successfully
+Row count for Movies Table: 2484
+Row count for Movie Cast Table: 23380
+part d 1: Query executed successfully
+part d 2: Query executed successfully
+part e: 7.33
+part f:
+Mark Hamill 17
+Harrison Ford 14
+Billy Dee Williams 12
+Patrick Stewart 11
+Samuel L. Jackson 9
+part g:
+Interstellar 99.39 37
+Star Wars 76.5 104
+Star Wars: The Rise of Skywalker 69.04 112
+Star Wars: The Last Jedi 42.65 115
+2001: A Space Odyssey 39.06 60
+part h:
+47698 Denis Lawson 57.55
+12248 Alec Guinness 52.3
+3 Harrison Ford 52.3
+4 Carrie Fisher 50.37
+2 Mark Hamill 50.37
+1023139 Adam Driver 49.41
+1333 Andy Serkis 49.41
+1399531 Billie Lourd 49.41
+1315036 Daisy Ridley 49.41
+93210 Domhnall Gleeson 49.41
